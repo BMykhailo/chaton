@@ -1,0 +1,51 @@
+.tor{
+    text-align: center;
+}
+button{
+    width: 30px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 1px; 
+    background-color: rgb(0, 174, 186);
+    border: none;
+    box-shadow: 7px 10px 9px rgba(0, 0, 0, 0.096);
+}
+img{
+    border-radius: 300px; 
+    border: 2px solid green; 
+    box-shadow: 0 0 19px #666; 
+    width: 350px;
+}
+h2{
+    font-family: fantasy;
+    color: brown;
+  -ms-text-size-adjust: 80px;
+    
+}
+button .top{
+     padding: 5px;
+    width: 15px;
+    height: 20px;
+    border: none;
+    box-shadow: none;
+    
+    
+}.smail img{
+     width: 50px;
+    border: none;
+    box-shadow: none;
+    background-color: none;
+}
+.bt{
+    width: auto;
+    border: 1px solid;
+    padding: 4px 4px 0 4px;
+    font-family: fantasy;
+    font-size: 13px;
+}
+
+    
+   
+    
+    
+
